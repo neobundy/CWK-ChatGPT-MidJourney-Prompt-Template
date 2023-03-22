@@ -5,7 +5,7 @@ Here's my generic ChatGTP-Midjourney prompt engineering template. You can easily
 
 On Midjourney: /imagine [prompt: (paste the clipboard content)]
 
-Generic, Cinematic, Illustration, Cartoon, Anime prompts are supported but the possibilities are endless.
+Generic, Cinematic, Illustration, Cartoon, Anime, Vector, Food prompts are supported but the possibilities are endless.
 
 Just copy one of them and create your own: a manga prompt, for example, and add your famous artists in the right place.
 
@@ -20,7 +20,7 @@ Tested on ChatGPT-3.5 and above.
 
 파이썬 코드 블럭이지만 파이썬 문법을 무시하라고 일러줬기 때문에 그냥 복사하기 수단일 뿐입니다.
 
-Generic, Cinematic, Illustration, Cartoon, Anime 라고 했지만 찬찬히 뜯어보시면 얼마든지 입맛에 맞게 확장할 수 있어요. Manga 라면 만화 아티스트 죽 나열해서 ChatGPT한테 알려주면 되는 식...
+Generic, Cinematic, Illustration, Cartoon, Anime,Vector, Food 라고 했지만 찬찬히 뜯어보시면 얼마든지 입맛에 맞게 확장할 수 있어요. Manga 라면 만화 아티스트 죽 나열해서 ChatGPT한테 알려주면 되는 식...
 
 이 공식 학습하고 나면...
 
