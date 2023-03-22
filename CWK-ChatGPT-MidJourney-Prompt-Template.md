@@ -66,7 +66,6 @@ When I say 'portrait prompt', use the following formula:
 * (Composition: Portrait)
 * (Focal Length: 85MM) 
 * (F-Stop: f1.2)
-* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
 * Artistic Photography::3 Adobe Photoshop photorealistic::2 high detail well-lit
 
 ## Parameter List
