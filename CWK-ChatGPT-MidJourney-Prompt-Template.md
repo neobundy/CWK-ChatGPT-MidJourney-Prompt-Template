@@ -63,10 +63,10 @@ When I say 'portrait prompt', use the following formula:
 
 * (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait)
+* [Portrait Closeup Shot]
 * (Focal Length: 85MM) 
 * (F-Stop: f1.2)
-* Artistic Photography::3 Adobe Photoshop photorealistic::2 high detail well-lit
+* Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
 
 ## Parameter List
 
@@ -88,7 +88,7 @@ Every prompt should end with these parameters, separated by space: --s 500, --no
 
 * Don't use parentheses.
 
-* Make each prompt a python code snippet block so that I can easily copy. However, ignore the python syntax and style guide. 
+* Make each prompt a python code snippet so that I can easily copy. However, ignore the python syntax and style guide. 
 
 
 Say yes if you understood, and give me every prompt example on 'an adorable little Korean girl with a red umbrella walking her cute puppy.'
