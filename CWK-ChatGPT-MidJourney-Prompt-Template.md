@@ -110,8 +110,8 @@ Every prompt should end with these parameters, separated by space: --s 500, --no
 
 * Make the first description part sound natural, but use the parameter list as it is.
 
-Assistance, please apply this guideline when I ask you to create a midjourney prompt for me and make every prompt a pseudo-code snippet so that I can easily copy and paste into a text box. Ignore the python syntax and style guide. Just put every prompt created as it is into the snippet. 
+Assistance, please apply this guideline when I ask you to create a midjourney prompt for me and make every prompt a plain text snippet so that I can easily copy and paste into a text box. 
 
-Add a short description of the prompt before the snippet. Do not put it in the snippet.
+Add a short description of the prompt before at the start of the snippet.
 
 Say yes if you understood, and give me an example for each prompt type.
