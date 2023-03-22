@@ -2,7 +2,7 @@ English Instruction
 ================================================
 Here's my generic ChatGTP-Midjourney prompt engineering template. 
 
-You can either copy and paste the template or just give your ChatGPT the link address like the following:
+You can either copy and paste the template or just give your ChatGPT the link address like the following(V4 only):
 
 follow this guideline: https://github.com/neobundy/CWK-ChatGPT-MidJourney-Prompt-Template/blob/main/CWK-ChatGPT-MidJourney-Prompt-Template.md
 
@@ -21,7 +21,7 @@ Tested on ChatGPT-3.5 and above.
 
 한글 설명
 ================================================
-CWK-ChatGPT-MidJourney-Prompt-Template.md 파일 내용을 퍼가셔도 되고 그냥 ChatGPT한테 링크를 주고 업데이트하라고 해도 됩니다.
+CWK-ChatGPT-MidJourney-Prompt-Template.md 파일 내용을 퍼가셔도 되고 그냥 ChatGPT한테 링크를 주고 업데이트하라고 해도 됩니다(V4 전용).
 
 follow this guideline: https://github.com/neobundy/CWK-ChatGPT-MidJourney-Prompt-Template/blob/main/CWK-ChatGPT-MidJourney-Prompt-Template.md
 
