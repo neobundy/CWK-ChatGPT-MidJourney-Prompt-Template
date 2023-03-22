@@ -1,7 +1,12 @@
 English Instruction
 ================================================
+Here's my generic ChatGTP-Midjourney prompt engineering template. 
 
-Here's my generic ChatGTP-Midjourney prompt engineering template. Just copy and paste any prompt ChatGPT creates into Midjourney. 
+You can either copy and paste the template or just give your ChatGPT the link address like the following:
+
+follow this guideline: https://github.com/neobundy/CWK-ChatGPT-MidJourney-Prompt-Template/blob/main/CWK-ChatGPT-MidJourney-Prompt-Template.md
+
+Copy and paste any prompt ChatGPT creates into Midjourney. 
 
 On Midjourney: /imagine [prompt: (paste the clipboard content)]
 
@@ -16,6 +21,10 @@ Tested on ChatGPT-3.5 and above.
 
 한글 설명
 ================================================
+CWK-ChatGPT-MidJourney-Prompt-Template.md 파일 내용을 퍼가셔도 되고 그냥 ChatGPT한테 링크를 주고 업데이트하라고 해도 됩니다.
+
+follow this guideline: https://github.com/neobundy/CWK-ChatGPT-MidJourney-Prompt-Template/blob/main/CWK-ChatGPT-MidJourney-Prompt-Template.md
+
 코딩 스니핏처럼 copy 버튼만 누르면 클립보드로 자동 복사 되기 때문에 그냥 미드저니에 가서 /imagine 쓰고 prompt 뜨면 붙여넣기 하면 됩니다.
 
 Generic, Cinematic, Illustration, Cartoon, Anime,Vector, Food 라고 했지만 찬찬히 뜯어보시면 얼마든지 입맛에 맞게 확장할 수 있어요. Manga 라면 만화 아티스트 죽 나열해서 ChatGPT한테 알려주면 되는 식...
