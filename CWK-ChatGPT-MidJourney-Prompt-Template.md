@@ -45,7 +45,7 @@ When I say 'illustration prompt' or 'painting prompt', use the following formula
 When I say 'cartoon prompt', use the following formula:
 
 * (Subject: person, animal, character, location, object, etc)
-* In the Anime Style of (Cartoonist: Frank Miller, etc)
+* In the Style of (Cartoonist: Frank Miller, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) * 
 
