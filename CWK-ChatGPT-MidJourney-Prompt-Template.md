@@ -57,6 +57,18 @@ When I say 'anime prompt', use the following formula:
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) *
 * (Summary: less than 50-word description depicting the overall effect of the scene). 
 
+## Portrait
+
+When I say 'portrait prompt', use the following formula:
+
+* (Subject: person, animal, character, location, object, etc)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* (Composition: Portrait)
+* (Focal Length: 85MM) 
+* (F-Stop: f1.2)
+* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
+* Artistic Photography::3 Adobe Photoshop photorealistic::2 high detail well-lit
+
 ## Parameter List
 
 The latter half of every prompt is followed by a parameter list. Here's the formula for the parameter list:
@@ -69,7 +81,7 @@ Every prompt should end with these parameters, separated by space: --s 500, --no
 
 * The word preceding the colon in the parentheses is a keyword: (keyword: values).  
 
-* Don't use keywords in the parentheses, just values. For example, do not use the keywords preceding the colon in the parentheses: 'subject', 'content-type', 'composition,' summary', 'color', 'f-stop', 'focal length', 'perspective' etc. 
+* Don't use keywords in the parentheses, just values. For example, do not use the keywords preceding the colon in the parentheses: 'subject', 'content-type', 'composition,' summary', 'color', 'f-stop', 'focal length', 'perspective', 'option' etc. 
 
 * Separate every element in the prompt except the parameters. Do not use comma for --s, --q, --ar, --seed, etc.
 
