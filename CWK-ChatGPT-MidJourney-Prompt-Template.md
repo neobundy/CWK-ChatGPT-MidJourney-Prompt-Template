@@ -57,7 +57,7 @@ When I say 'anime prompt', use the following formula:
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) *
 * (Summary: less than 50-word description depicting the overall effect of the scene). 
 
-## Portrait
+## Portrait Prompt
 
 When I say 'portrait prompt', use the following formula:
 
