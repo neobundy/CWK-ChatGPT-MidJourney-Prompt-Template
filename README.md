@@ -26,6 +26,7 @@ Generic, Cinematic, Illustration, Cartoon, Anime,Vector, Food 라고 했지만 �
 이 공식 학습하고 나면...
 
 ChatGPT: cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
+
 Copy Code로 복사한 뒤 미드저니: /imagine [prompt: (클립보드 붙여넣기)]
 
 오픈소스이고 뭘하셔도 상관 없어요. 앞으로도 업데이트해 나가겠지만 맘대로 쓰시면 됩니다.
