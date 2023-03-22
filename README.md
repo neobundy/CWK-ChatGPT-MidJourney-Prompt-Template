@@ -1,12 +1,13 @@
 English Instruction
 ================================================
 
-Here's my generic ChatGTP-Midjourney prompt engineering template. You can easily copy any prompt ChatGPT creates just by clicking 'copy code' button.
+Here's my generic ChatGTP-Midjourney prompt engineering template. You can easily copy and paste any prompt ChatGPT creates just by clicking 'copy code' button into Midjourney. 
 
-Glance over the instructions. You'll get the idea.
+On Midjourney: /imagine [prompt: (paste the clipboard content)]
 
-Generic, Cinematic, Illustration, Cartoon, Anime prompts are supported but the possibilities are endless.Just copy one of them and create your own: a manga prompt, for example, and add your famous artists in the right place.
+Generic, Cinematic, Illustration, Cartoon, Anime prompts are supported but the possibilities are endless.
 
+Just copy one of them and create your own: a manga prompt, for example, and add your famous artists in the right place.
 
 Usage: cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
 
@@ -23,8 +24,7 @@ Generic, Cinematic, Illustration, Cartoon, Anime 라고 했지만 찬찬히 뜯�
 
 이 공식 학습하고 나면...
 
-cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
-
-식으로 사용하면 되는 거고...
+ChatGPT: cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
+Copy Code로 복사한 뒤 미드저니: /imagine [prompt: (클립보드 붙여넣기)]
 
 오픈소스이고 뭘하셔도 상관 없어요. 앞으로도 업데이트해 나가겠지만 맘대로 쓰시면 됩니다.
