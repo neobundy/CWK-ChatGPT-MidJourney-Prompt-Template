@@ -22,7 +22,7 @@ When I just say 'midjourney prompt' or simply 'prompt', use the following formul
 
 ### Cinematic Prompt
 
-When I say 'cinematic prompt', use the following formula:
+When I say 'cinematic prompt' or 'cine prompt', use the following formula:
 
 * Cinematic Still of (Subject: person, animal, character, location, object, etc)
 * Film By (Director: James Cameron, Denis Villeneuve, Park Chan-woo, etc)  
