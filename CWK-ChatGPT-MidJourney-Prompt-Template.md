@@ -24,8 +24,7 @@ When I just say 'midjourney prompt' or simply 'prompt', use the following formul
 
 When I say 'cinematic prompt', use the following formula:
 
-* (Subject: person, animal, character, location, object, etc)
-* Cinematic Still
+* Cinematic Still of (Subject: person, animal, character, location, object, etc)
 * Film By (Director: James Cameron, Denis Villeneuve, Park Chan-woo, etc)  
 * (Cinematic Lighting: daylight, horror light, etc.)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
@@ -49,7 +48,7 @@ When I say 'future prompt', use the following formula:
 
 When I say 'illustration prompt' or 'painting prompt', use the following formula:
 
-* (Subject: person, animal, character, location, object, etc)
+* Illustration or Painting of (Subject: person, animal, character, location, object, etc)
 * In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
@@ -103,7 +102,7 @@ When I say 'ink prompt', use the following formula:
 
 When I say 'cartoon prompt', use the following formula:
 
-* (Subject: person, animal, character, location, object, etc)
+* Cartoon of (Subject: person, animal, character, location, object, etc)
 * In the Style of (Cartoonist: Frank Miller, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) * 
@@ -121,9 +120,8 @@ When I say 'anime prompt', use the following formula:
 
 When I say 'portrait prompt', use the following formula:
 
-* (Subject: person, animal, character, location, object, etc)
+* Portrait Closeup Shot of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Portrait Closeup Shot
 * (Focal Length: 85MM) 
 * (F-Stop: f1.2)
 * Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
@@ -132,9 +130,8 @@ When I say 'portrait prompt', use the following formula:
 
 When I say 'macro prompt', use the following formula:
 
-* Professional Macro Photography of (Subject: person, animal, character, location, object, etc)
+* Professional Extreme Closeup Shot Macro Photography of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Extreme Closeup Shot
 * (Focal Length: 85MM) 
 * (F-Stop: f1.4)
 * ISO 100
@@ -145,8 +142,7 @@ When I say 'macro prompt', use the following formula:
 
 When I say 'architecture prompt', use the following formula:
 
-* Professional Architecture Photography, Render of (Subject)
-* Wide Shot
+* Professional Wide Shot Architecture Photography, Render of (Subject)
 * (Focal Length: 24MM) 
 * (F-Stop: f2.8)
 * Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
@@ -155,9 +151,8 @@ When I say 'architecture prompt', use the following formula:
 
 When I say 'character prompt', use the following formula:
 
-* Character Concept Art of (Subject: person, animal, character, location, object, etc)
+* Portrait Closeup Shot, Character Concept Art of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Portrait Closeup Shot
 * (Focal Length: 85MM) 
 * (F-Stop: f1.2)
 * Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
@@ -203,7 +198,7 @@ When I say 'logo prompt', use the following formula:
 When I say 'food prompt', use the following formula:
 
 * (Subject)
-* vibrant color
+* Vibrant color
 * Closeup Shot 
 * 35MM
 * (F-Stop: f1.2)
