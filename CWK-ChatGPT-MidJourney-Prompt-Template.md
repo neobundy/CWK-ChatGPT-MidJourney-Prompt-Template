@@ -229,7 +229,7 @@ When I say 'landscape prompt', use the following formula:
 * (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * Wide Shot
 * Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
-* 
+
 ## Parameter List
 
 The description part of every midjourney prompt is followed by a parameter list. Here's the formula for the parameter list.
