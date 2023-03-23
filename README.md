@@ -2,33 +2,36 @@
 
 ## Supported Prompts
 
-1. Generic Prompt
-2. Cinematic Prompt
-3. Future Prompt
-4. Illustration Prompt (also referred to as 'painting prompt')
-5. Pencil Drawing Prompt
-6. Pencil Sketch Prompt
-7. Charcoal Prompt
-8. Lineart Prompt
-9. Ink Prompt
-10. Cartoon Prompt
-11. Anime Prompt
-12. Portrait Prompt
-13. Macro Prompt
-14. Architecture Prompt
-15. Character Prompt
-16. Character Sheet Prompt
-17. Game Prompt
-18. Multipose Prompt
-19. Vector Prompt
-20. Infographic Prompt
-21. Logo Prompt
-22. Food Prompt
-23. Travel Prompt
-24. Landscape Prompt
-25. Ornate Prompt
-26. Emblem Prompt
-27. Fabric Prompt
+Name of the Prompt Types - keyword to invoke the prompt type.
+
+1. Generic Prompt - "generic"
+2. Cinematic Prompt - "cinematic"
+3. Future Prompt - "future"
+4. Illustration Prompt (also referred to as 'painting prompt') - "illustration"
+5. Pencil Drawing Prompt - "pencil drawing"
+6. Pencil Sketch Prompt - "pencil sketch"
+7. Charcoal Prompt - "charcoal"
+8. Lineart Prompt - "lineart"
+9. Ink Prompt - "ink"
+10. Cartoon Prompt - "cartoon"
+11. Anime Prompt - "anime"
+12. Portrait Prompt - "portrait"
+13. Macro Prompt - "macro"
+14. Architecture Prompt - "architecture"
+15. Character Prompt - "character"
+16. Character Sheet Prompt - "character sheet"
+17. Game Prompt - "game"
+18. Multipose Prompt - "multipose"
+19. Vector Prompt - "vector"
+20. Infographic Prompt - "infographic"
+21. Logo Prompt - "logo"
+22. Food Prompt - "food"
+23. Travel Prompt - "travel"
+24. Landscape Prompt - "landscape"
+25. Ornate Prompt - "ornate"
+26. Emblem Prompt - "emblem"
+27. Fabric Prompt - "fabric"
+
 
 ## English Instruction
 
