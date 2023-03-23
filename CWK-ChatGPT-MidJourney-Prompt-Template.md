@@ -296,4 +296,4 @@ Assistance, please apply this guideline when I ask you to create a midjourney pr
 
 Add a short description of the prompt before at the start of the snippet.
 
-Say yes if you understood and give me the full list of the types of prompts in this format: (type name) - (the keyword to invoke the prompt).
+Say yes if you understood and give me the full list of the types of Midjourney prompts in this guideline using this format: (type name) - (the keyword to invoke the prompt).
