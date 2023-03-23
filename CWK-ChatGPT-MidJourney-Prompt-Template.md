@@ -14,7 +14,7 @@ When I just say 'midjourney prompt' or simply 'prompt', use the following formul
 
 * (Subject: people, animal, object, etc)
 * (Content-Type: water color painting, water color sketch, lineart, 3d render, pencil drawing, movie poster, sticker, tattoo stencil, logo, icon, illustration, mockup, product shot, advertisement, pattern, oil, painting, acryl painting, infographic, cinematic still, movie poster, etc)
-* (Colors: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
+* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * (Lighting: cinematic, dramatic, moody, bright, natural, artificial, dim dark, direct flashlight, blue light, from behind, volumetric, natural, octane render, a morning  scene with soft and warm light, a night scene with artificial light and neon signs, etc)
 * (Perspective: close-up, medium close-up, extreme close-up, top down angle, full shot, wide shot, birds-eye view, worm's eye view, first-person, third-person, low-angle, high-angle, cowboy shot, medium full shot, full shot, dutch-angle, etc)
 
