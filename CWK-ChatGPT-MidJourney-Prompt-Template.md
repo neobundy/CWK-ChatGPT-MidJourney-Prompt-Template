@@ -170,13 +170,6 @@ When I say 'sheet prompt', use the following formula:
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
 
-### Game Prompt
-
-When I say 'game prompt', use the following formula:
-
-* Game Asset Design of (Subject), for game::2, 
-* Concept Art, T-Pose, Reference Sheet, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
 ### Multipose Prompt
 
 When I say 'multipose prompt', use the following formula:
@@ -196,13 +189,6 @@ When I say 'vector prompt', use the following formula:
 * Beautiful Vector Art Design,  Adobe Illustrator
 * (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-
-### Infographic Prompt
-
-When I say 'infographic prompt', use the following formula:
-
-* Professional Infographic Design of (Subject: person, animal, character, location, object, etc)
-* accurate data, Adobe Illustrator, Autodesk
 
 ### Logo Prompt
 
@@ -243,33 +229,7 @@ When I say 'landscape prompt', use the following formula:
 * (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * Wide Shot
 * Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
-
-### Ornate Prompt
-
-When I say 'ornate prompt', use the following formula:
-
-* Photorealistic Premium Photography of Hyperrealistic Ornates::2 of (Subject: person, animal, character, etc)
-* Gold, Metallic, Intricate Design
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Wide Full Body Shot
-* (Focal Length: 50MM) 
-* (F-Stop: f1.4)
-* Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
-### Emblem Prompt
-
-When I say 'emblem prompt', use the following formula:
-
-* Coat of Arms Design of (Subject: person, animal, character, etc)
-* Emblems, Symbols, Fantasy, Gothic, Futuristic, Concept Art, Digital Art, Adobe Illustrator, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
-### Fabric Prompt
-
-When I say 'fabric prompt', use the following formula:
-
-* Photorealistic Premium Photography of Fabric Designs::2 of (Subject: person, animal, character, etc)
-* Embroidered::2, Vector Graphics, Digital Art, Patterns, Tiles, Intricate Designs, Adobe Illustrator, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
+* 
 ## Parameter List
 
 The description part of every midjourney prompt is followed by a parameter list. Here's the formula for the parameter list.

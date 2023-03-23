@@ -1,37 +1,33 @@
-# CWK-ChatGPT-MidJourney-Prompt-Template V1.1a
+# CWK-ChatGPT-MidJourney-Prompt-Template V1.1b
 
-## Supported Prompts
+## Supported Prompts - Works with ChatGPT3-5 and above
+
+Do not add more prompts. ChatGPT gets lost along the way.
 
 Name of the Prompt Types - keyword to invoke the prompt type.
 
-1. Generic Prompt - "generic"
-2. Cinematic Prompt - "cinematic"
-3. Future Prompt - "future"
-4. Illustration Prompt (also referred to as 'painting prompt') - "illustration"
-5. Pencil Drawing Prompt - "pencil drawing"
-6. Pencil Sketch Prompt - "pencil sketch"
-7. Charcoal Prompt - "charcoal"
-8. Lineart Prompt - "lineart"
-9. Ink Prompt - "ink"
-10. Cartoon Prompt - "cartoon"
-11. Anime Prompt - "anime"
-12. Portrait Prompt - "portrait"
-13. Macro Prompt - "macro"
-14. Architecture Prompt - "architecture"
-15. Character Prompt - "character"
-16. Character Sheet Prompt - "character sheet"
-17. Game Prompt - "game"
-18. Multipose Prompt - "multipose"
-19. Vector Prompt - "vector"
-20. Infographic Prompt - "infographic"
-21. Logo Prompt - "logo"
-22. Food Prompt - "food"
-23. Travel Prompt - "travel"
-24. Landscape Prompt - "landscape"
-25. Ornate Prompt - "ornate"
-26. Emblem Prompt - "emblem"
-27. Fabric Prompt - "fabric"
-
+ 1. Generic Prompt - (midjourney prompt) or (prompt)
+ 2. Cinematic Prompt - (cinematic prompt)
+ 3. Future Prompt - (future prompt)
+ 4. Illustration Prompt - (illustration prompt) or (painting prompt)
+ 5. Pencil Drawing Prompt - (pencil prompt)
+ 6. Pencil Sketch Prompt - (sketch prompt)
+ 7. Charcoal Prompt - (charcoal prompt)
+ 8. Lineart Prompt - (lineart prompt)
+ 9. Ink Prompt - (ink prompt)
+ 10. Cartoon Prompt - (cartoon prompt)
+ 11. Anime Prompt - (anime prompt)
+ 12. Portrait Prompt - (portrait prompt)
+ 13. Macro Prompt - (macro prompt)
+ 14. Architecture Prompt - (architecture prompt)
+ 15. Character Prompt - (character prompt)
+ 16. Character Sheet Prompt - (sheet prompt)
+ 17. Multipose Prompt - (multipose prompt)
+ 18. Vector Prompt - (vector prompt)
+ 19. Logo Prompt - (logo prompt)
+ 20. Food Prompt - (food prompt)
+ 21. Travel Prompt - (travel prompt)
+ 22. Landscape Prompt - (landscape prompt)
 
 ## English Instruction
 
