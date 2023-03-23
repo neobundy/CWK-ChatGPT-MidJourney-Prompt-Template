@@ -1,5 +1,35 @@
 # CWK-ChatGPT-MidJourney-Prompt-Template V1
 
+## Supported Prompts
+
+1 Generic Prompt
+2 Cinematic Prompt
+3 Future Prompt
+4 Illustration Prompt (also referred to as 'painting prompt')
+5 Pencil Drawing Prompt
+6 Pencil Sketch Prompt
+7 Charcoal Prompt
+8 Lineart Prompt
+9 Ink Prompt
+10 Cartoon Prompt
+11 Anime Prompt
+12 Portrait Prompt
+13 Macro Prompt
+14 Architecture Prompt
+15 Character Prompt
+16 Character Sheet Prompt
+17 Game Prompt
+18 Multipose Prompt
+19 Vector Prompt
+20 Infographic Prompt
+21 Logo Prompt
+22 Food Prompt
+23 Travel Prompt
+24 Landscape Prompt
+25 Ornate Prompt
+26 Emblem Prompt
+
+
 ## English Instruction
 
 Here's my generic ChatGTP-Midjourney prompt engineering template. 
