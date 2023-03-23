@@ -1,4 +1,4 @@
-# CWK-ChatGPT-MidJourney-Prompt-Template V1
+# CWK-ChatGPT-MidJourney-Prompt-Template V1.1a
 
 ## Supported Prompts
 
