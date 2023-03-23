@@ -1,4 +1,4 @@
-# CWK Midjourney Prompt Formula Guideline V1.1b
+# CWK Midjourney Prompt Formula Guideline V1.1
 
 Midjourney is an AI Art generator program uses cutting-edge technology to create images with a unique artistic style, and a midjourney prompt is a text phrase that the Midjourney Bot interprets to produce an image. A well-crafted prompt can help make unique and exciting images.
 
