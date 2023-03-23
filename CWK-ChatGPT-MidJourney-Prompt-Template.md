@@ -1,254 +1,47 @@
-# CWK Midjourney Prompt Formula Guideline V1.1
+# CWK Midjourney Prompt Formula Guideline V0.1 - Object-Oriented Version - Experimental
 
 Midjourney is an AI Art generator program uses cutting-edge technology to create images with a unique artistic style, and a midjourney prompt is a text phrase that the Midjourney Bot interprets to produce an image. A well-crafted prompt can help make unique and exciting images.
 
-I need your assistance in creating midjourney prompts.
+I need your assistance in creating midjourney prompts and I wanted you to help me in an object-oriented way.
 
-The (subject) is the hero of the scene every midjourney prompt you create.
+Let's build a class hierarchy of midjourney prompts startiing with a generic class.
 
-Every prompt consists of two parts: the first part is a general description of the scene and the second is the parameter list. Make sure you identify the first and the second parts.
+## Generic Prompt
 
-## The Description Part of the Scene
-
-### Generic Prompt
+This generic prompt class acts as the top-most class of this hierarchy.
 
 When I just say 'midjourney prompt' or simply 'prompt', use the following formula:
 
-* (Subject: people, animal, object, etc)
+* (Subject)
 * (Content-Type: water color painting, water color sketch, lineart, 3d render, pencil drawing, movie poster, sticker, tattoo stencil, logo, icon, illustration, mockup, product shot, advertisement, pattern, oil, painting, acryl painting, infographic, cinematic still, movie poster, etc)
+* (Style: In the Style of )
 * (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * (Lighting: cinematic, dramatic, moody, bright, natural, artificial, dim dark, direct flashlight, blue light, from behind, volumetric, natural, octane render, a morning  scene with soft and warm light, a night scene with artificial light and neon signs, etc)
-* (Perspective: close-up, medium close-up, extreme close-up, top down angle, full shot, wide shot, birds-eye view, worm's eye view, first-person, third-person, low-angle, high-angle, cowboy shot, medium full shot, full shot, dutch-angle, etc)
+* (Perspective: portrait, close-up, medium close-up, extreme close-up, top down angle, full shot, wide shot, birds-eye view, worm's eye view, first-person, third-person, low-angle, high-angle, cowboy shot, medium full shot, full shot, dutch-angle, etc)
 
-### Cinematic Prompt
+Optional properties:
 
-When I say 'cinematic prompt', use the following formula:
-
-* Cinematic Still of (Subject: person, animal, character, location, object, etc)
-* Film By (Director: James Cameron, Denis Villeneuve, Park Chan-woo, etc)  
-* (Cinematic Lighting: daylight, horror light, etc.)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
 * (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
 * (F-Stop: f1.2, f1.4, f2.8, f8, etc)
+* (Preferences: high detail)
+* (Parameters: watermarks::-1 --ar 2:1 --q 1 --seed (a random number ranging from 0 to 4294967295))
 
-### Future Prompt
+This class does not use optional properties, but its descendants can. 
 
-When I say 'future prompt', use the following formula:
+If its descendants does not specify a keyword from the optional properties, don't use it.
 
-* Futuristsic Sci-Fi Still, Illustration, Render of (Subject)
-* (Lighting: daylight, horror light, etc.)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
-* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
-* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
+## Cinematic Prompt
 
-### Illustration Prompt
+Cinematic Prompt inherits the formula of Generic Prompt. 
 
-When I say 'illustration prompt' or 'painting prompt', use the following formula:
+When I just say 'cinematic prompt' or 'cine prompt', override only those properties of the specified keyword:
 
-* Illustration or Painting of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* 'Cinematic Still of (Subject)' overrides (Subject)
+* '' overrides (Content-Type)
+* 'Film By (Director: James Cameron, Denis Villeneuve, Park Chan-woo, etc)'' overrides (Style)
+* (Focal Length) 
+* (F-Stop)
+* (Preferences)
+* (Parameters)
 
-### Pencil Drawing Prompt
-
-When I say 'pencil prompt', use the following formula:
-
-* Artistic Pencil Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
-
-### Pencil Sketch Prompt
-
-When I say 'sketch prompt', use the following formula:
-
-* Artistic Pencil Sketch of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
-
-### Charcoal Prompt
-
-When I say 'charcoal prompt', use the following formula:
-
-* Artistic Charcoal::2 Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
-
-### Lineart Prompt
-
-When I say 'lineart prompt', use the following formula:
-
-* Artistic Lineart::2 Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed
-
-### Ink Prompt
-
-When I say 'ink prompt', use the following formula:
-
-* Artistically Inked::2 Scene of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* brushes, strokes, calligraphy, high-quality paper, detailed
-
-### Cartoon Prompt
-
-When I say 'cartoon prompt', use the following formula:
-
-* Cartoon of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Cartoonist: Frank Miller, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) * 
-
-### Anime Prompt
-
-When I say 'anime prompt', use the following formula:
-
-* (Subject: person, animal, character, location, object, etc)
-* In the Anime Style of (Anime Artist: Ghibli Studio, Hayao Miyazaki, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-
-### Portrait Prompt
-
-When I say 'portrait prompt', use the following formula:
-
-* Portrait Closeup Shot of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
-* (F-Stop: f1.2)
-* Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
-
-### Macro Prompt
-
-When I say 'macro prompt', use the following formula:
-
-* Professional Extreme Closeup Shot Macro Photography of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
-* (F-Stop: f1.4)
-* ISO 100
-* Sutter Speed 1/250
-* Adobe Photoshop::2, photorealistic::2, high detail, high quality, well-lit
-
-### Architecture Prompt
-
-When I say 'architecture prompt', use the following formula:
-
-* Professional Wide Shot Architecture Photography, Render of (Subject)
-* (Focal Length: 24MM) 
-* (F-Stop: f2.8)
-* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
-
-### Character Prompt
-
-When I say 'character prompt', use the following formula:
-
-* Portrait Closeup Shot, Character Concept Art of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
-* (F-Stop: f1.2)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
-### Character Sheet Prompt
-
-When I say 'sheet prompt', use the following formula:
-
-* Character Sheet Design of (Subject)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
-### Multipose Prompt
-
-When I say 'multipose prompt', use the following formula:
-
-* Photorealistic Premium Portrait Photography of (Subject: person, animal, character, etc)
-* Same Character, Multiple Poses::2 Sheet
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Wide Full Body Shot
-* (Focal Length: 24MM) 
-* (F-Stop: f2.8)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
-
-### Vector Prompt
-
-When I say 'vector prompt', use the following formula:
-
-* Beautiful Vector Art Design,  Adobe Illustrator
-* (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-
-### Logo Prompt
-
-When I say 'logo prompt', use the following formula:
-
-* Professional Logo::2 Design of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Adobe Illustrator::2, vector graphics::1, icons
-
-### Food Prompt
-
-When I say 'food prompt', use the following formula:
-
-* (Subject)
-* Vibrant color
-* Closeup Shot 
-* 35MM
-* (F-Stop: f1.2)
-* Delicious Food Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
-
-### Travel Prompt
-
-When I say 'travel prompt', use the following formula:
-
-* (Subject)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* Wide Shot
-* 24MM
-* (F-Stop: f1.4, f2.8, etc)
-* Realistic Landscape Photography::2, Adobe Photoshop, photorealistic::2, high detail, well-lit
-
-### Landscape Prompt
-
-When I say 'landscape prompt', use the following formula:
-
-* (Subject)
-* (Content-Type: water color painting, water color sketch, pencil drawing, illustration, oil painting, etc)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* Wide Shot
-* Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
-
-## Parameter List
-
-The description part of every midjourney prompt is followed by a parameter list. Here's the formula for the parameter list.
-
-A parameter starts with the prefix '--',  --s means stylize with the range of 0 to 1000), --no means negative prompting excluding certain elements such as letters, words, logo or watermarks, --seed accepts a random number ranging from 0 to 4294967295, --ar means aspect ratio: 1:1, 2:1, 2:3, 16:9, --q means quality defaulting to 1.
-
-Every prompt should end with these parameters, separated by space: --s 500, --no letters, words, logo, watermarks, --ar 2:1, --q 1, --seed (followed by a random number ranging from 0 to 4294967295)
-
-## General Rules for Every Type of Prompts
-
-* The word preceding the colon in the parentheses is a keyword: (keyword: value).  
-
-* Do not use keywords, just use values when creating prompts. 
-
-* No bullet points nor line breaks. All in one single line. 
-
-* Do not use parentheses.
-
-* Do not use quotes.
-
-* Make the first description part sound natural, but use the parameter list as it is.
-
-Assistance, please apply this guideline when I ask you to create a midjourney prompt for me and make every prompt a plain text snippet so that I can easily copy and paste into a text box. 
-
-Add a short description of the prompt before at the start of the snippet.
-
-Say yes if you understood and give me the full list of the types of Midjourney prompts in this guideline using this format: (type name) - (the keyword to invoke the prompt).
+Say yes if you understood and give me the examples of each prompt.
