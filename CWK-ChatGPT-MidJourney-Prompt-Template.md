@@ -48,8 +48,17 @@ When I say 'future prompt', use the following formula:
 
 When I say 'illustration prompt' or 'painting prompt', use the following formula:
 
-* Illustration or Painting of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* Illustration of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: WLOP, Artgerm, Yuko Shimizu, Victo Ngai, James Jean, Rebecca Mock, Sam Spratt, Loish, Rob Rey, Ilya Kuvshinov, etc)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+
+### Painting Prompt
+
+When I say 'painting prompt', use the following formula:
+
+* Painting of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Leonardo da Vinci, Vincent van Gogh, Michelangelo Buonarroti, Rembrandt van Rijn, Pablo Picasso, Claude Monet, Johannes Vermeer, Sandro Botticelli, Salvador Dali, Gustav Klimt, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
 
@@ -85,7 +94,7 @@ When I say 'charcoal prompt', use the following formula:
 When I say 'lineart prompt', use the following formula:
 
 * Artistic Lineart::2 Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* In the Style of (Artist: Hirohiko Araki, Akira Toriyama, Eiichiro Oda, Osamu Tezuka, Rumiko Takahashi, etc)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
 * high-quality paper, detailed
 
@@ -103,7 +112,7 @@ When I say 'ink prompt', use the following formula:
 When I say 'cartoon prompt', use the following formula:
 
 * Cartoon of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Cartoonist: Frank Miller, etc)
+* In the Style of (Cartoonist: Frank Miller,Chris Ware, Alison Bechdel, Art Spiegelman, Charles M. Schulz, Bill Watterson, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) * 
 
@@ -112,7 +121,7 @@ When I say 'cartoon prompt', use the following formula:
 When I say 'anime prompt', use the following formula:
 
 * (Subject: person, animal, character, location, object, etc)
-* In the Anime Style of (Anime Artist: Ghibli Studio, Hayao Miyazaki, etc)
+* In the Anime Style of (Anime Artist: Ghibli Studio, Hayao Miyazaki, Hayao Miyazaki, Mamoru Hosoda, Makoto Shinkai, Isao Takahata, Satoshi Kon, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
 
