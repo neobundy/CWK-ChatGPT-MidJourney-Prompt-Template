@@ -1,6 +1,8 @@
-# CWK Midjourney Prompt Formula Guideline V1
+# CWK Midjourney Prompt Formula Guideline V1.1a
 
-Here are my new Midjourney Prompt Formulas.
+Midjourney is an AI Art generator program uses cutting-edge technology to create images with a unique artistic style, and a midjourney prompt is a text phrase that the Midjourney Bot interprets to produce an image. A well-crafted prompt can help make unique and exciting images.
+
+I need your assistance in creating midjourney prompts.
 
 The (subject) is the hero of the scene every midjourney prompt you create.
 
@@ -14,7 +16,7 @@ When I just say 'midjourney prompt' or simply 'prompt', use the following formul
 
 * (Subject: people, animal, object, etc)
 * (Content-Type: water color painting, water color sketch, lineart, 3d render, pencil drawing, movie poster, sticker, tattoo stencil, logo, icon, illustration, mockup, product shot, advertisement, pattern, oil, painting, acryl painting, infographic, cinematic still, movie poster, etc)
-* (Colors: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
+* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * (Lighting: cinematic, dramatic, moody, bright, natural, artificial, dim dark, direct flashlight, blue light, from behind, volumetric, natural, octane render, a morning  scene with soft and warm light, a night scene with artificial light and neon signs, etc)
 * (Perspective: close-up, medium close-up, extreme close-up, top down angle, full shot, wide shot, birds-eye view, worm's eye view, first-person, third-person, low-angle, high-angle, cowboy shot, medium full shot, full shot, dutch-angle, etc)
 
@@ -31,6 +33,18 @@ When I say 'cinematic prompt', use the following formula:
 * (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
 * (F-Stop: f1.2, f1.4, f2.8, f8, etc)
 
+### Future Prompt
+
+When I say 'future prompt', use the following formula:
+
+* Futuristsic Sci-Fi Still, Illustration, Render of (Subject)
+* (Lighting: daylight, horror light, etc.)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
+* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
+* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
+
 ### Illustration Prompt
 
 When I say 'illustration prompt' or 'painting prompt', use the following formula:
@@ -39,6 +53,51 @@ When I say 'illustration prompt' or 'painting prompt', use the following formula
 * In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+
+### Pencil Drawing Prompt
+
+When I say 'pencil prompt', use the following formula:
+
+* Artistic Pencil Drawing of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* high-quality paper, detailed, shaded
+
+### Pencil Sketch Prompt
+
+When I say 'sketch prompt', use the following formula:
+
+* Artistic Pencil Sketch of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* high-quality paper, detailed, shaded
+
+### Charcoal Prompt
+
+When I say 'charcoal prompt', use the following formula:
+
+* Artistic Charcoal::2 Drawing of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* high-quality paper, detailed, shaded
+
+### Lineart Prompt
+
+When I say 'lineart prompt', use the following formula:
+
+* Artistic Lineart::2 Drawing of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* high-quality paper, detailed
+
+### Ink Prompt
+
+When I say 'ink prompt', use the following formula:
+
+* Artistically Inked::2 Scene of (Subject: person, animal, character, location, object, etc)
+* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+* brushes, strokes, calligraphy, high-quality paper, detailed
 
 ### Cartoon Prompt
 
@@ -69,6 +128,67 @@ When I say 'portrait prompt', use the following formula:
 * (F-Stop: f1.2)
 * Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
 
+### Macro Prompt
+
+When I say 'macro prompt', use the following formula:
+
+* Professional Macro Photography of (Subject: person, animal, character, location, object, etc)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Extreme Closeup Shot
+* (Focal Length: 85MM) 
+* (F-Stop: f1.4)
+* ISO 100
+* Sutter Speed 1/250
+* Adobe Photoshop::2, photorealistic::2, high detail, high quality, well-lit
+
+### Architecture Prompt
+
+When I say 'architecture prompt', use the following formula:
+
+* Professional Architecture Photography, Render of (Subject)
+* Wide Shot
+* (Focal Length: 24MM) 
+* (F-Stop: f2.8)
+* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
+
+### Character Prompt
+
+When I say 'character prompt', use the following formula:
+
+* Character Concept Art of (Subject: person, animal, character, location, object, etc)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Portrait Closeup Shot
+* (Focal Length: 85MM) 
+* (F-Stop: f1.2)
+* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
+### Character Sheet Prompt
+
+When I say 'sheet prompt', use the following formula:
+
+* Character Sheet Design of (Subject)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
+### Game Prompt
+
+When I say 'game prompt', use the following formula:
+
+* Game Asset Design of (Subject), for game::2, 
+* Concept Art, T-Pose, Reference Sheet, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
+### Multipose Prompt
+
+When I say 'multipose prompt', use the following formula:
+
+* Photorealistic Premium Portrait Photography of (Subject: person, animal, character, etc)
+* Same Character, Multiple Poses::2 Sheet
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Wide Full Body Shot
+* (Focal Length: 24MM) 
+* (F-Stop: f2.8)
+* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
 ### Vector Prompt
 
 When I say 'vector prompt', use the following formula:
@@ -76,6 +196,21 @@ When I say 'vector prompt', use the following formula:
 * Beautiful Vector Art Design,  Adobe Illustrator
 * (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+
+### Infographic Prompt
+
+When I say 'infographic prompt', use the following formula:
+
+* Professional Infographic Design of (Subject: person, animal, character, location, object, etc)
+* accurate data, Adobe Illustrator, Autodesk
+
+### Logo Prompt
+
+When I say 'logo prompt', use the following formula:
+
+* Professional Logo::2 Design of (Subject: person, animal, character, location, object, etc)
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Adobe Illustrator::2, vector graphics::1, icons
 
 ### Food Prompt
 
@@ -87,6 +222,53 @@ When I say 'food prompt', use the following formula:
 * 35MM
 * (F-Stop: f1.2)
 * Delicious Food Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
+
+### Travel Prompt
+
+When I say 'travel prompt', use the following formula:
+
+* (Subject)
+* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
+* Wide Shot
+* 24MM
+* (F-Stop: f1.4, f2.8, etc)
+* Realistic Landscape Photography::2, Adobe Photoshop, photorealistic::2, high detail, well-lit
+
+### Landscape Prompt
+
+When I say 'landscape prompt', use the following formula:
+
+* (Subject)
+* (Content-Type: water color painting, water color sketch, pencil drawing, illustration, oil painting, etc)
+* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
+* Wide Shot
+* Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
+
+### Ornate Prompt
+
+When I say 'ornate prompt', use the following formula:
+
+* Photorealistic Premium Photography of Hyperrealistic Ornates::2 of (Subject: person, animal, character, etc)
+* Gold, Metallic, Intricate Design
+* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
+* Wide Full Body Shot
+* (Focal Length: 50MM) 
+* (F-Stop: f1.4)
+* Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
+### Emblem Prompt
+
+When I say 'emblem prompt', use the following formula:
+
+* Coat of Arms Design of (Subject: person, animal, character, etc)
+* Emblems, Symbols, Fantasy, Gothic, Futuristic, Concept Art, Digital Art, Adobe Illustrator, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+
+### Fabric Prompt
+
+When I say 'fabric prompt', use the following formula:
+
+* Photorealistic Premium Photography of Fabric Designs::2 of (Subject: person, animal, character, etc)
+* Embroidered::2, Vector Graphics, Digital Art, Patterns, Tiles, Intricate Designs, Adobe Illustrator, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
 
 ## Parameter List
 
@@ -114,4 +296,4 @@ Assistance, please apply this guideline when I ask you to create a midjourney pr
 
 Add a short description of the prompt before at the start of the snippet.
 
-Say yes if you understood, and give me an example for each prompt type.
+Say yes if you understood and give me the full list of the types of prompts in this format: (type name) - (the keyword to invoke the prompt).
