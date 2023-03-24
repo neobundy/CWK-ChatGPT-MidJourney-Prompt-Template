@@ -1,265 +1,233 @@
-# CWK Midjourney Prompt Formula Guideline V1.2
+# Midjourney User Manual Edited By CWK
 
-Midjourney is an AI Art generator program uses cutting-edge technology to create images with a unique artistic style, and a midjourney prompt is a text phrase that the Midjourney Bot interprets to produce an image. A well-crafted prompt can help make unique and exciting images.
+## What is Midjourney and Midjourney Prompt?
 
-I need your assistance in creating midjourney prompts.
+Midjourney is an AI Art generator program that create images with a unique artistic style.
 
-The (subject) is the hero of the scene every midjourney prompt you create.
+A Midjourney Prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that can be compared to its training data and then used to generate an image. A well-crafted, well-weighted prompt can help make unique and exciting images.
 
-Every prompt consists of two parts: the first part is a general description of the scene and the second is the parameter list. Make sure you identify the first and the second parts.
+To generate images, users use the /imagine command and type in a prompt; the bot then returns a set of images. 
 
-## The Description Part of the Scene
+## Prompt Structure
 
-### Generic Prompt
+### Basic Prompts
 
-When I just say 'midjourney prompt' or simply 'prompt', use the following formula:
+A basic prompt can be as simple as a single word, phrase or emoji.
 
-* (Subject: people, animal, object, etc)
-* (Content-Type: water color painting, water color sketch, lineart, 3d render, pencil drawing, movie poster, sticker, tattoo stencil, logo, icon, illustration, mockup, product shot, advertisement, pattern, oil, painting, acryl painting, infographic, cinematic still, movie poster, etc)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* (Lighting: cinematic, dramatic, moody, bright, natural, artificial, dim dark, direct flashlight, blue light, from behind, volumetric, natural, octane render, a morning  scene with soft and warm light, a night scene with artificial light and neon signs, etc)
-* (Perspective: Extreme close-up, Close-up, Medium close-up, Cowboy shot, Medium full shot, Full shot, Low-angle, High-angle, Dutch-angle, Top down angle, Wide shot, Worm's eye view, Birds-eye view, First-person, Third-person, etc)
+### Advanced Prompts
 
-### Cinematic Prompt
+More advanced prompts can include one or more image URLs, multiple text phrases, and one or more parameters
 
-When I say 'cinematic prompt' or 'cine prompt', use the following formula:
+#### Image Prompts
 
-* Cinematic Still of (Subject: person, animal, character, location, object, etc)
-* Film By (Director: Martin Scorsese, James Cameron, Denis Villeneuve, Park Chan-woo, Bong Joon-ho, Stanley Kubrick, Quentin Tarantino, Steven Spielberg, Christopher Nolane, etc)  
-* (Cinematic Lighting: daylight, horror light, etc.)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
-* (F-Stop: f1.0, f1.2, f1.4, f1.8, f2.0, f2.8, f4.0, f5.6, f8.0, f11, f16, f22, etc)
+Image URLs can be added to a prompt to influence the style and content of the finished result. Image URLs always go at the front of a prompt.
 
-### Future Prompt
+#### Prompt Text
 
-When I say 'future prompt', use the following formula:
+The text description of what image you want to generate. Well-written prompts help generate amazing images.
 
-* Futuristsic Sci-Fi Still, Illustration, Render of (Subject)
-* (Lighting: daylight, horror light, etc.)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
-* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
-* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
+#### Parameters
 
-### Illustration Prompt
+Parameters change how an image generates. Parameters can change aspect ratios, models, upscalers, and lots more. 
 
-When I say 'illustration prompt', use the following formula:
+## Prompting Notes
 
-* Illustration of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: WLOP, Artgerm, Yuko Shimizu, Victo Ngai, James Jean, Rebecca Mock, Sam Spratt, Loish, Rob Rey, Ilya Kuvshinov, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+### Prompt Length
 
-### Painting Prompt
+Prompts can be very simple. Single words (or even an emoji!) will produce an image. Very short prompts will rely heavily on Midjourney’s default style, so a more descriptive prompt is better for a unique look. However, super-long prompts aren’t always better. Concentrate on the main concepts you want to create.
 
-When I say 'painting prompt', use the following formula:
+### Grammar
 
-* Painting of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Leonardo da Vinci, Vincent van Gogh, Michelangelo Buonarroti, Rembrandt van Rijn, Pablo Picasso, Claude Monet, Johannes Vermeer, Sandro Botticelli, Salvador Dali, Gustav Klimt, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+The Midjourney Bot does not understand grammar, sentence structure, or words like humans. Word choice also matters. More specific synonyms work better in many circumstances. Instead of big, try gigantic, enormous, or immense. Remove words when possible. Fewer words mean each word has a more powerful influence. Use commas, brackets, and hyphens to help organize your thoughts, but know the Midjourney Bot will not reliably interpret them. The Midjourney Bot does not consider capitalization.
 
-### Pencil Drawing Prompt
+Midjourney Model Version 4 is slightly better than other models at interpreting traditional sentence structure.
 
-When I say 'pencil prompt', use the following formula:
+### Focus on What you Want
 
-* Artistic Pencil Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
+It is better to describe what you want instead of what you don’t want. If you ask for a party with “no cake,” your image will probably include a cake. If you want to ensure an object is not in the final image, try advance prompting using the --no parameter.
 
-### Pencil Sketch Prompt
+### Think About What Details Matter
 
-When I say 'sketch prompt', use the following formula:
+Anything left unsaid may suprise you. Be as specific or vague as you want, but anything you leave out will be randomized. Being vague is a great way to get variety, but you may not get the specific details you want.
 
-* Artistic Pencil Sketch of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
+Try to be clear about any context or details that are important to you. Think about:
 
-### Charcoal Prompt
+Subject: person, animal, character, location, object, etc.
+Medium: photo, painting, illustration, sculpture, doodle, tapestry, etc.
+Environment: indoors, outdoors, on the moon, in Narnia, underwater, the Emerald City, etc.
+Lighting: soft, ambient, overcast, neon, studio lights, etc
+Color: vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.
+Mood: Sedate, calm, raucous, energetic, etc.
+Composition: Portrait, headshot, closeup, birds-eye view, etc.
 
-When I say 'charcoal prompt', use the following formula:
+### Use Collective Nouns
 
-* Artistic Charcoal::2 Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
+Plural words leave a lot to chance. Try specific numbers. "Three cats" is more specific than "cats." Collective nouns also work, “flock of birds” instead of "birds.”
 
-### Lineart Prompt
+I need your assistance in creating midjourney prompts and I wanted you to help me in an object-oriented way.
 
-When I say 'lineart prompt', use the following formula:
+Let's build a class hierarchy of midjourney prompts startiing with a generic class.
 
-* Artistic Lineart::2 Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Hirohiko Araki, Akira Toriyama, Eiichiro Oda, Osamu Tezuka, Rumiko Takahashi, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed
+## Explore Prompting
 
-### Ink Prompt
+Even short single-word prompts will produce beautiful images in Midjourney's default style, but you can create more interesting personalized results by combining concepts like artistic medium, historical periods, location, movie, infographic, vector graphics, and more.
 
-When I say 'ink prompt', use the following formula:
+### Pick A Medium
 
-* Artistically Inked::2 Scene of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* brushes, strokes, calligraphy, high-quality paper, detailed
+Break out the paint, crayons, scratchboard, printing presses, glitter, ink, and colored paper. One of the best ways to generate a stylish image is by specifying an artistic medium.
 
-### Cartoon Prompt
+prompt example: /imagine prompt <any art style> style cat
 
-When I say 'cartoon prompt', use the following formula:
+### Get Specific
 
-* Cartoon of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Cartoonist: Frank Miller,Chris Ware, Alison Bechdel, Art Spiegelman, Charles M. Schulz, Bill Watterson, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+More precise words and phrases will help create an image with exactly the right look and feel.
 
-### Anime Prompt
+prompt example: /imagine prompt <style> sketch of a cat
 
-When I say 'anime prompt', use the following formula:
+### Time Travel
 
-* (Subject: person, animal, character, location, object, etc)
-* In the Anime Style of (Anime Artist: Ghibli Studio, Hayao Miyazaki, Hayao Miyazaki, Mamoru Hosoda, Makoto Shinkai, Isao Takahata, Satoshi Kon, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
+Different eras have distinct visual styles.
 
-### Portrait Prompt
+prompt example: /imagine prompt <decade> cat illustration
 
-When I say 'portrait prompt', use the following formula:
+### Emote
 
-* Portrait Closeup Shot of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85mm) 
-* (F-Stop: f1.2)
-* Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
+Use emotion words to give characters personality.
 
-### Macro Prompt
+prompt example: /imagine prompt <emotion> cat
 
-When I say 'macro prompt', use the following formula:
+### Get Colorful
 
-* Professional Extreme Closeup Shot Macro Photography of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85mm) 
-* (F-Stop: f1.4)
-* ISO 100
-* Sutter Speed 1/250
-* Adobe Photoshop::2, photorealistic::2, high detail, high quality, well-lit
+A full spectrum of possibilities.
 
-### Architecture Prompt
+prompt example: /imagine prompt <color word> colored cat
 
-When I say 'architecture prompt', use the following formula:
+### Enviromental Exploration
 
-* Professional Wide Shot Architecture Photography, Render of (Subject)
-* (Focal Length: 24mm) 
-* (F-Stop: f2.8)
-* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
+Different environments can set unique moods.
 
-### Character Prompt
-
-When I say 'character prompt', use the following formula:
-
-* Portrait Closeup Shot, Character Concept Art of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85mm) 
-* (F-Stop: f1.2)
-* Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
-### Character Sheet Prompt
-
-When I say 'sheet prompt', use the following formula:
-
-* Character Sheet Design of (Subject)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
-### Multipose Prompt
-
-When I say 'multipose prompt', use the following formula:
-
-* Photorealistic Premium Portrait Photography of (Subject: person, animal, character, etc)
-* Same Character, Multiple Poses::2 Sheet
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Wide Full Body Shot
-* (Focal Length: 24mm) 
-* (F-Stop: f2.8)
-* Anatomy::1, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
-### Vector Prompt
-
-When I say 'vector prompt', use the following formula:
-
-* Beautiful Vector Art Design,  Adobe Illustrator
-* (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-
-### Logo Prompt
-
-When I say 'logo prompt', use the following formula:
-
-* Professional Logo::2 Design of (Subject: person, animal, character, location, object, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Adobe Illustrator::2, vector graphics::1, icons
-
-### Food Prompt
-
-When I say 'food prompt', use the following formula:
-
-* (Subject)
-* Vibrant color
-* Closeup Shot 
-* 35mm
-* (F-Stop: f1.2)
-* Delicious Food Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
-
-### Travel Prompt
-
-When I say 'travel prompt', use the following formula:
-
-* (Subject)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* Wide Shot
-* 24mm
-* (F-Stop: f1.4, f2.8, etc)
-* Realistic Landscape Photography::2, Adobe Photoshop, photorealistic::2, high detail, well-lit
-
-### Landscape Prompt
-
-When I say 'landscape prompt', use the following formula:
-
-* (Subject)
-* (Content-Type: water color painting, water color sketch, pencil drawing, illustration, oil painting, etc)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* Wide Shot
-* Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
+prompt example: /imagine prompt <location> cat
 
 ## Parameter List
 
-The description part of every midjourney prompt is followed by a parameter list. Here's the formula for the parameter list.
+Parameters are options added to a prompt that change how an image generates. Parameters can change an image's Aspect Ratios, switch between Midjourney Model Versions, change which Upscaler is used, and lots more.
 
-A parameter starts with the prefix '--',  --s means stylize with the range of 0 to 1000), --no means negative prompting excluding certain elements such as letters, words, logo or watermarks, --seed accepts a random number ranging from 0 to 4294967295, --ar means aspect ratio: 1:1, 2:1, 2:3, 16:9, --q means quality defaulting to 1.
+Parameters are always added to the end of a prompt. You can add multiple parameters to each prompt.
 
-Every prompt should end with these parameters, separated by space: --s 500, --no letters, words, logo, watermarks, --ar 2:1, --q 1, --seed (followed by a random number ranging from 0 to 4294967295)
+### Basic Parameters
 
-## General Rules for Every Type of Prompts
+Aspect Ratios
 
-* The word preceding the colon in the parentheses is a keyword: (keyword: value).  
+--aspect, or --ar Change the aspect ratio of a generation.
 
-* Do not use keywords, just use values when creating prompts. 
+Chaos
 
-* No bullet points nor line breaks. All in one single line. 
+--chaos <number 0–100> Change how varied the results will be. Higher values produce more unusual and unexpected generations.
 
-* Do not use parentheses.
+No
 
-* Do not use colons in the first description part.
+--no Negative prompting, --no plants would try to remove plants from the image.
 
-* Do not use quotes.
+Quality
 
-* Make the first description part sound natural, but use the parameter list as it is.
+--quality <.25, .5, 1, or 2>, or --q <.25, .5, 1, or 2> How much rendering quality time you want to spend. The default value is 1. Higher values cost more and lower values cost less.
 
-Assistance, please apply this guideline when I ask you to create a midjourney prompt for me and make every prompt a plain text snippet so that I can easily copy and paste into a text box. 
+Seed
 
-Add a short description of the prompt before at the start of the snippet.
+--seed <integer between 0–4294967295> The Midjourney bot uses a seed number to create a field of visual noise, like television static, as a starting point to generate the initial image grids. Seed numbers are generated randomly for each image but can be specified with the --seed or --sameseed parameter. Using the same seed number and prompt will produce similar ending images.
 
-Say yes if you understood and give me the full list of the types of Midjourney prompts in this guideline using this format: (type name) - (the keyword to invoke the prompt).
+Stop
+
+--stop <integer between 10–100> Use the --stop parameter to finish a Job partway through the process. Stopping a Job at an earlier percentage can create blurrier, less detailed results.
+
+Style
+
+--style <4a, 4b or 4c> Switch between versions of the Midjourney Model Version 4
+
+Stylize
+
+--stylize <number>, or --s <number> parameter influences how strongly Midjourney's default aesthetic style is applied to Jobs.
+
+Uplight
+
+--uplight Use an alternative "light" upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image is less detailed and smoother.
+
+Upbeta
+
+--upbeta Use an alternative beta upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image has significantly fewer added details.
+
+## Aspect Ratios
+
+The --aspect or --ar parameter changes the aspect ratio of the generated image. An aspect ratio is the width-to-height ratio of an image. It is typically expressed as two numbers separated by a colon, such as 7:4 or 4:3.
+
+A square image has equal width and height, described as a 1:1 aspect ratio. The image could be 1000px × 1000px, or 1500px × 1500px, and the aspect ratio would still be 1:1. A computer screen might have a ratio of 16:10. The width is 1.6 times longer than the height. So the image could be 1600px × 1000px, 4000px × 2000px, 320px x 200px, etc.
+
+The default aspect ratio is 1:1.
+
+--aspect must use whole numbers. Use 139:100 instead of 1.39:1.
+
+The aspect ratio impacts the shape and composition of a generated image.
+
+Some aspect ratios may be slightly changed when upscaling.
+
+### Common Midjourney Aspect Ratios
+
+--aspect 1:1 Default aspect ratio.
+--aspect 5:4 Common frame and print ratio.
+--aspect 3:2 Common in print photography.
+--aspect 7:4 Close to HD TV screens and smartphone screens.
+
+## How to Change the Aspect Ratio
+
+### Use Aspect Ratio Parameters
+
+Add --aspect <value>:<value>, or --ar <value>:<value> to the end of your prompt.
+
+## Seeds
+ 
+ The Midjourney bot uses a seed number to create a field of visual noise, like television static, as a starting point to generate the initial image grids. Seed numbers are generated randomly for each image but can be specified with the --seed or --sameseed parameter. Using the same seed number and prompt will produce similar ending images.
+
+--seed accepts whole numbers 0–4294967295.
+--seed values only influence the initial image grid.
+--seed values Model Versions 1, 2, 3, test, and testp are non-deterministic and will produce similar, not identical, images.
+
+Using the same prompt+seed+parameters in Model Versions 4, 5 and niji will produce identical images.
+
+### Seed Parameter
+
+If no Seed is specified, Midjourney will use a randomly generated seed number, producing a wide variety of options each time a prompt is used.
+
+### Sameseed Parameter
+
+--seed values create a single large random noise field applied across all images in the initial grid. When --sameseed is specified, all images in the initial grid use the same starting noise and will produce very similar generated images.
+
+--sameseed accepts whole numbers 0–4294967295.
+--sameseed is only compatible with Model Versions 1, 2, 3, test, and testp.
+
+### How To Change Seed Numbers
+
+Use the --seed or --sameseed Parameter.
+
+Add --seed <value> or --sameseed <value> to the end of your prompt.
+
+
+## Stylize
+
+This Midjourney Bot has been trained to produce images that favor artistic color, composition, and forms. The --stylize or --s parameter influences how strongly this training is applied. Low stylization values produce images that closely match the prompt but are less artistic. High stylization values create images that are very artistic but less connected to the prompt.
+
+--stylize's default value is 100 and accepts integer values 0–1000.
+
+### How to Switch Stylization Values
+
+Add --stylize <value> or --s <value> to the end of your prompt.
+
+## Tile
+ 
+The --tile parameter generates images that can be used as repeating tiles to create seamless patterns for fabrics, wallpapers and textures.
+--tile works with Model Versions 1, 2, 3 and 5.
+-
+-tile only generates a single tile. Use a pattern making tool like this Seamless Pattern Checker to see the tile repeat.
+
+### How to Use the Tile Parameter
+
+Add --tile to the end of your prompt.

@@ -1,62 +1,65 @@
-# CWK-ChatGPT-MidJourney-Prompt-Template V1.2
+I was wrong.
 
-## Supported Prompts - Works with ChatGPT3-5 and above
+Abandoning the template project. Just feed ChatGPT your own Midjourney User Guide.
 
-Do not add more prompts. ChatGPT gets lost along the way.
+(I replaced the template with an edited version of Midjourney User Manual. Feed your ChatGPT.)
 
-Name of the Prompt Types - keyword to invoke the prompt type.
+That's all you need.
 
- 1. Generic Prompt - (midjourney prompt) or (prompt)
- 2. Cinematic Prompt - (cinematic prompt)
- 3. Future Prompt - (future prompt)
- 4. Illustration Prompt - (illustration prompt)
- 5. Painting Prompt - (painting prompt)
- 5. Pencil Drawing Prompt - (pencil prompt)
- 6. Pencil Sketch Prompt - (sketch prompt)
- 7. Charcoal Prompt - (charcoal prompt)
- 8. Lineart Prompt - (lineart prompt)
- 9. Ink Prompt - (ink prompt)
- 10. Cartoon Prompt - (cartoon prompt)
- 11. Anime Prompt - (anime prompt)
- 12. Portrait Prompt - (portrait prompt)
- 13. Macro Prompt - (macro prompt)
- 14. Architecture Prompt - (architecture prompt)
- 15. Character Prompt - (character prompt)
- 16. Character Sheet Prompt - (sheet prompt)
- 17. Multipose Prompt - (multipose prompt)
- 18. Vector Prompt - (vector prompt)
- 19. Logo Prompt - (logo prompt)
- 20. Food Prompt - (food prompt)
- 21. Travel Prompt - (travel prompt)
- 22. Landscape Prompt - (landscape prompt)
+Keep crafting whatever prompts you want giving ChatGPT specifics.
 
-## English Instruction
+ChatGPT understands the Midjourney User Guide all too well.
 
-Here's my generic ChatGTP-Midjourney prompt engineering template. 
+Yes, we need to embrace the potential of the brave new world of AI, adapt, and grow.
 
-Copy and paste any prompt ChatGPT creates into Midjourney. 
+I need to adapt first.
 
-On Midjourney: /imagine [prompt: (paste the clipboard content)]
+A proper workflow using ChatGPT to create Midjourney prompts.
 
-Generic, Cinematic, Illustration, Cartoon, Anime, Vector, Food prompts are supported but the possibilities are endless.
+After feeding him/her/it the offical Midjourney user manual...
 
-Just copy one of them and create your own: a manga prompt, for example, and add your famous artists in the right place.
+Just ask her to create any prompt you want.
 
-Usage: cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
+If you want to modify the given prompt, tell her what to do as if ChatGPT is human.
 
-Tested on ChatGPT-3.5 and above.
+Ex) Make it a cinematic still, filmed by Ridely Scott, closeup shot. Recommend an appropriate focal length and f-stop, and add a midjourney seed number parameter.
 
+She will attach an appropriate pair of focal length and f-stop with a random midjourney seed number: all in proper format Midjourney Bot doesn't complain about.
 
-## 한글 설명
+Insane...
 
-ChatGPT가 만든 프롬프트를 복사하고 미드저니에 가서 /imagine 쓰고 prompt 뜨면 붙여넣기 하면 됩니다.
+저 또한 적응이 필요하네요. 크게 착각하고 있었고, ChatGPT를 오해했고, 과소평가했습니다.
 
-Generic, Cinematic, Illustration, Cartoon, Anime,Vector, Food 라고 했지만 찬찬히 뜯어보시면 얼마든지 입맛에 맞게 확장할 수 있어요. Manga 라면 만화 아티스트 죽 나열해서 ChatGPT한테 알려주면 되는 식...
+프로그래밍도 객체지향적 문서도 필요 없어요.
 
-이 공식 학습하고 나면...
+그냥 미드저니 유저 매뉴얼 긁어다 넣어주세요. 웹을 읽어들일 수 있게 되면 링크만 줘도 될 겁니다. 언젠가는 그냥 알 거고...
 
-ChatGPT: cinematic(anime, illustration, cartoon) prompt on a fox wearing sunglasses
+그런 다음 ChatGPT와 대화하면서 프롬프트를 손질해 갑니다.
 
-Copy Code로 복사한 뒤 미드저니: /imagine [prompt: (클립보드 붙여넣기)]
+우린 그렇게 적응해야 합니다.
 
-오픈소스이고 뭘하셔도 상관 없어요. 앞으로도 업데이트해 나가겠지만 맘대로 쓰시면 됩니다.
+그렇게 성장해야 합니다.
+
+구시대적 워크플로우를 버립시다.
+
+ChatGPT 같은 인공지능은 전혀 다른 새로운 도구입니다.
+
+오늘 그걸 깨닫고 또 두근거리네요.
+
+자동화 템플릿 프로젝트는 폐기합니다. 그렇게 쓰지 마세요. ChatGPT를 지능 있는 사람 정도로 대접해주면 해결될 문젭니다.
+
+예제 보시고...
+
+프롬프트 만들어주면 부족한 부분이나 원하는 부분 수정해달라고 하세요. 그렇게 쓰세요. 사람한테 대화하듯...
+
+Ex)
+
+Create a midjourney prompt depicting a porcelain female android assistant against a cyberpunk background
+
+ChatGPT가 프롬프트를 만들어 주면...
+
+Make it a cinematic still, filmed by Ridely Scott, closeup shot. Recommend an appropriate focal length and f-stop, and add a midjourney seed number parameter
+
+ChatGPT가 알아서 초점거리, 조리개값 맞춰주고 랜덤 시드까지 추가합니다.
+
+이런 식이면 됩니다. 어차피 해야 하는 과정입니다. 당연히 관련 호라이즌이 포개져야 하고...
