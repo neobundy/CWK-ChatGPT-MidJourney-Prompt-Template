@@ -18,19 +18,19 @@ When I just say 'midjourney prompt' or simply 'prompt', use the following formul
 * (Content-Type: water color painting, water color sketch, lineart, 3d render, pencil drawing, movie poster, sticker, tattoo stencil, logo, icon, illustration, mockup, product shot, advertisement, pattern, oil, painting, acryl painting, infographic, cinematic still, movie poster, etc)
 * (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * (Lighting: cinematic, dramatic, moody, bright, natural, artificial, dim dark, direct flashlight, blue light, from behind, volumetric, natural, octane render, a morning  scene with soft and warm light, a night scene with artificial light and neon signs, etc)
-* (Perspective: close-up, medium close-up, extreme close-up, top down angle, full shot, wide shot, birds-eye view, worm's eye view, first-person, third-person, low-angle, high-angle, cowboy shot, medium full shot, full shot, dutch-angle, etc)
+* (Perspective: Extreme close-up, Close-up, Medium close-up, Cowboy shot, Medium full shot, Full shot, Low-angle, High-angle, Dutch-angle, Top down angle, Wide shot, Worm's eye view, Birds-eye view, First-person, Third-person, etc)
 
 ### Cinematic Prompt
 
 When I say 'cinematic prompt' or 'cine prompt', use the following formula:
 
 * Cinematic Still of (Subject: person, animal, character, location, object, etc)
-* Film By (Director: James Cameron, Denis Villeneuve, Park Chan-woo, etc)  
+* Film By (Director: Martin Scorsese, James Cameron, Denis Villeneuve, Park Chan-woo, Bong Joon-ho, Stanley Kubrick, Quentin Tarantino, Steven Spielberg, Christopher Nolane, etc)  
 * (Cinematic Lighting: daylight, horror light, etc.)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
-* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
+* (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
+* (F-Stop: f1.0, f1.2, f1.4, f1.8, f2.0, f2.8, f4.0, f5.6, f8.0, f11, f16, f22, etc)
 
 ### Future Prompt
 
@@ -40,9 +40,9 @@ When I say 'future prompt', use the following formula:
 * (Lighting: daylight, horror light, etc.)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 12MM, 24MM, 35MM, 50MM, 85MM, 135MM, 200MM, etc) 
+* (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
 * (F-Stop: f1.2, f1.4, f2.8, f8, etc)
-* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
+* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Illustration Prompt
 
@@ -114,7 +114,7 @@ When I say 'cartoon prompt', use the following formula:
 * Cartoon of (Subject: person, animal, character, location, object, etc)
 * In the Style of (Cartoonist: Frank Miller,Chris Ware, Alison Bechdel, Art Spiegelman, Charles M. Schulz, Bill Watterson, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) * 
+* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
 
 ### Anime Prompt
 
@@ -131,7 +131,7 @@ When I say 'portrait prompt', use the following formula:
 
 * Portrait Closeup Shot of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
+* (Focal Length: 85mm) 
 * (F-Stop: f1.2)
 * Artistic Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
 
@@ -141,7 +141,7 @@ When I say 'macro prompt', use the following formula:
 
 * Professional Extreme Closeup Shot Macro Photography of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
+* (Focal Length: 85mm) 
 * (F-Stop: f1.4)
 * ISO 100
 * Sutter Speed 1/250
@@ -152,9 +152,9 @@ When I say 'macro prompt', use the following formula:
 When I say 'architecture prompt', use the following formula:
 
 * Professional Wide Shot Architecture Photography, Render of (Subject)
-* (Focal Length: 24MM) 
+* (Focal Length: 24mm) 
 * (F-Stop: f2.8)
-* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, C4D, 3D Studio Max, Blender,Maya, Rhino, Revit, V-Ray, high detail, textured
+* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Character Prompt
 
@@ -162,9 +162,9 @@ When I say 'character prompt', use the following formula:
 
 * Portrait Closeup Shot, Character Concept Art of (Subject: person, animal, character, location, object, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Focal Length: 85MM) 
+* (Focal Length: 85mm) 
 * (F-Stop: f1.2)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+* Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Character Sheet Prompt
 
@@ -172,7 +172,7 @@ When I say 'sheet prompt', use the following formula:
 
 * Character Sheet Design of (Subject)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+* Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Multipose Prompt
 
@@ -182,9 +182,9 @@ When I say 'multipose prompt', use the following formula:
 * Same Character, Multiple Poses::2 Sheet
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * Wide Full Body Shot
-* (Focal Length: 24MM) 
+* (Focal Length: 24mm) 
 * (F-Stop: f2.8)
-* Anatomy::1, Digital Art, Adobe Photoshop, C4D, 3D Studio Max, Blender, V-Ray, high detail, textured
+* Anatomy::1, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Vector Prompt
 
@@ -209,7 +209,7 @@ When I say 'food prompt', use the following formula:
 * (Subject)
 * Vibrant color
 * Closeup Shot 
-* 35MM
+* 35mm
 * (F-Stop: f1.2)
 * Delicious Food Photography::2, Adobe Photoshop, photorealistic::2, bokeh::1, high detail, well-lit
 
@@ -220,7 +220,7 @@ When I say 'travel prompt', use the following formula:
 * (Subject)
 * (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
 * Wide Shot
-* 24MM
+* 24mm
 * (F-Stop: f1.4, f2.8, etc)
 * Realistic Landscape Photography::2, Adobe Photoshop, photorealistic::2, high detail, well-lit
 
