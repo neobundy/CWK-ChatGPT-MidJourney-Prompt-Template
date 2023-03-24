@@ -28,6 +28,8 @@ She will attach an appropriate pair of focal length and f-stop with a random mid
 
 Insane...
 
+If you still want to use the template, check out the 'deprecated' branch.
+
 저 또한 적응이 필요하네요. 크게 착각하고 있었고, ChatGPT를 오해했고, 과소평가했습니다.
 
 프로그래밍도 객체지향적 문서도 필요 없어요.
@@ -63,3 +65,5 @@ Make it a cinematic still, filmed by Ridely Scott, closeup shot. Recommend an ap
 ChatGPT가 알아서 초점거리, 조리개값 맞춰주고 랜덤 시드까지 추가합니다.
 
 이런 식이면 됩니다. 어차피 해야 하는 과정입니다. 당연히 관련 호라이즌이 포개져야 하고...
+
+굳이 템플릿을 써보고 싶다거나 연구해보고 싶으시다면  'deprecated' branch 확인하세요.
