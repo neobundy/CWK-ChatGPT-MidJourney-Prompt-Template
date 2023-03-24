@@ -252,6 +252,8 @@ Every prompt should end with these parameters, separated by space: --s 500, --no
 
 * Do not use parentheses.
 
+* Do not use colons in the first description part.
+
 * Do not use quotes.
 
 * Make the first description part sound natural, but use the parameter list as it is.
