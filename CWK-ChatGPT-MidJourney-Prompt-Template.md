@@ -46,7 +46,7 @@ When I say 'future prompt', use the following formula:
 
 ### Illustration Prompt
 
-When I say 'illustration prompt' or 'painting prompt', use the following formula:
+When I say 'illustration prompt', use the following formula:
 
 * Illustration of (Subject: person, animal, character, location, object, etc)
 * In the Style of (Artist: WLOP, Artgerm, Yuko Shimizu, Victo Ngai, James Jean, Rebecca Mock, Sam Spratt, Loish, Rob Rey, Ilya Kuvshinov, etc)
