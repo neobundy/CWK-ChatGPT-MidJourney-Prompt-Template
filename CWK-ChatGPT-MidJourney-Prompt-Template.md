@@ -1,4 +1,4 @@
-# CWK Midjourney Prompt Formula Guideline V1.2
+# CWK Midjourney Prompt Formula Guideline V1.2 Light
 
 Midjourney is an AI Art generator program uses cutting-edge technology to create images with a unique artistic style, and a midjourney prompt is a text phrase that the Midjourney Bot interprets to produce an image. A well-crafted prompt can help make unique and exciting images.
 
@@ -32,18 +32,6 @@ When I say 'cinematic prompt' or 'cine prompt', use the following formula:
 * (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
 * (F-Stop: f1.0, f1.2, f1.4, f1.8, f2.0, f2.8, f4.0, f5.6, f8.0, f11, f16, f22, etc)
 
-### Future Prompt
-
-When I say 'future prompt', use the following formula:
-
-* Futuristsic Sci-Fi Still, Illustration, Render of (Subject)
-* (Lighting: daylight, horror light, etc.)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* (Focal Length: 24mm, 35mm, 50mm, 85mm, 135mm, 200mm, etc) 
-* (F-Stop: f1.2, f1.4, f2.8, f8, etc)
-* Unreal Engine::2, Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
 ### Illustration Prompt
 
 When I say 'illustration prompt' or 'painting prompt', use the following formula:
@@ -52,24 +40,6 @@ When I say 'illustration prompt' or 'painting prompt', use the following formula
 * In the Style of (Artist: WLOP, Artgerm, Yuko Shimizu, Victo Ngai, James Jean, Rebecca Mock, Sam Spratt, Loish, Rob Rey, Ilya Kuvshinov, etc)
 * (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
 * (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-
-### Painting Prompt
-
-When I say 'painting prompt', use the following formula:
-
-* Painting of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Leonardo da Vinci, Vincent van Gogh, Michelangelo Buonarroti, Rembrandt van Rijn, Pablo Picasso, Claude Monet, Johannes Vermeer, Sandro Botticelli, Salvador Dali, Gustav Klimt, etc)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-
-### Pencil Drawing Prompt
-
-When I say 'pencil prompt', use the following formula:
-
-* Artistic Pencil Drawing of (Subject: person, animal, character, location, object, etc)
-* In the Style of (Artist: Monet, Banksy, Salvador Dali, Vincent van Gogh, WLOP, Artgerm, etc)
-* (Composition: Portrait, headshot, closeup, birds-eye view, wide, bust, etc.) 
-* high-quality paper, detailed, shaded
 
 ### Pencil Sketch Prompt
 
@@ -147,15 +117,6 @@ When I say 'macro prompt', use the following formula:
 * Sutter Speed 1/250
 * Adobe Photoshop::2, photorealistic::2, high detail, high quality, well-lit
 
-### Architecture Prompt
-
-When I say 'architecture prompt', use the following formula:
-
-* Professional Wide Shot Architecture Photography, Render of (Subject)
-* (Focal Length: 24mm) 
-* (F-Stop: f2.8)
-* Autodesk::2, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
 ### Character Prompt
 
 When I say 'character prompt', use the following formula:
@@ -165,26 +126,6 @@ When I say 'character prompt', use the following formula:
 * (Focal Length: 85mm) 
 * (F-Stop: f1.2)
 * Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
-### Character Sheet Prompt
-
-When I say 'sheet prompt', use the following formula:
-
-* Character Sheet Design of (Subject)
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Anatomy::1, Digital Art, Adobe Photoshop, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
-
-### Multipose Prompt
-
-When I say 'multipose prompt', use the following formula:
-
-* Photorealistic Premium Portrait Photography of (Subject: person, animal, character, etc)
-* Same Character, Multiple Poses::2 Sheet
-* (Color:  vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.)
-* Wide Full Body Shot
-* (Focal Length: 24mm) 
-* (F-Stop: f2.8)
-* Anatomy::1, Digital Art, Adobe Photoshop, Sketchup, AutoCAD, ArchiCAD, Rhino, Revit, Unreal Engine, 3D Studio Max, Autodesk Maya, Blender, C4D, Houdini, Arnold, Redshift, Octane, V-Ray, Corona, high detail, textured
 
 ### Vector Prompt
 
@@ -224,16 +165,6 @@ When I say 'travel prompt', use the following formula:
 * (F-Stop: f1.4, f2.8, etc)
 * Realistic Landscape Photography::2, Adobe Photoshop, photorealistic::2, high detail, well-lit
 
-### Landscape Prompt
-
-When I say 'landscape prompt', use the following formula:
-
-* (Subject)
-* (Content-Type: water color painting, water color sketch, pencil drawing, illustration, oil painting, etc)
-* (Color: sepia, monochrome color, blue and yellow, vibrant, muted, blue, yellow, red, etc)
-* Wide Shot
-* Realistic Landscape Painting::2, brushes, brush strokes, expressive, natural tones, high detail, absract, watermarks::-2
-
 ## Parameter List
 
 The description part of every midjourney prompt is followed by a parameter list. Here's the formula for the parameter list.
@@ -251,6 +182,8 @@ Every prompt should end with these parameters, separated by space: --s 500, --no
 * No bullet points nor line breaks. All in one single line. 
 
 * Do not use parentheses.
+
+* Do not use colons in the first description part.
 
 * Do not use quotes.
 

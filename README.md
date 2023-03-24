@@ -1,34 +1,26 @@
-# CWK-ChatGPT-MidJourney-Prompt-Template V1.2
+# CWK-ChatGPT-MidJourney-Prompt-Template V1.2 Light
 
 ## Supported Prompts - Works with ChatGPT3-5 and above
 
-Do not add more prompts. ChatGPT gets lost along the way.
+Light Version Supports a most-used subset of prompts for reliability.
 
 Name of the Prompt Types - keyword to invoke the prompt type.
 
  1. Generic Prompt - (midjourney prompt) or (prompt)
  2. Cinematic Prompt - (cinematic prompt)
- 3. Future Prompt - (future prompt)
- 4. Illustration Prompt - (illustration prompt)
- 5. Painting Prompt - (painting prompt)
- 5. Pencil Drawing Prompt - (pencil prompt)
- 6. Pencil Sketch Prompt - (sketch prompt)
- 7. Charcoal Prompt - (charcoal prompt)
- 8. Lineart Prompt - (lineart prompt)
- 9. Ink Prompt - (ink prompt)
- 10. Cartoon Prompt - (cartoon prompt)
- 11. Anime Prompt - (anime prompt)
- 12. Portrait Prompt - (portrait prompt)
- 13. Macro Prompt - (macro prompt)
- 14. Architecture Prompt - (architecture prompt)
- 15. Character Prompt - (character prompt)
- 16. Character Sheet Prompt - (sheet prompt)
- 17. Multipose Prompt - (multipose prompt)
- 18. Vector Prompt - (vector prompt)
- 19. Logo Prompt - (logo prompt)
- 20. Food Prompt - (food prompt)
- 21. Travel Prompt - (travel prompt)
- 22. Landscape Prompt - (landscape prompt)
+ 3. Illustration Prompt - (illustration prompt)
+ 4. Pencil Sketch Prompt - (sketch prompt)
+ 5. Charcoal Prompt - (charcoal prompt)
+ 6. Lineart Prompt - (lineart prompt)
+ 7. Ink Prompt - (ink prompt)
+ 8. Anime Prompt - (anime prompt)
+ 9. Portrait Prompt - (portrait prompt)
+ 10. Macro Prompt - (macro prompt)
+ 11. Character Prompt - (character prompt)
+ 12. Vector Prompt - (vector prompt)
+ 13. Logo Prompt - (logo prompt)
+ 14. Food Prompt - (food prompt)
+ 15. Travel Prompt - (travel prompt)
 
 ## English Instruction
 
